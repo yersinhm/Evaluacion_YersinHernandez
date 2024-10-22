@@ -1,0 +1,11 @@
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\bin\Debug\DA.dll
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\bin\Debug\DA.pdb
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\bin\Debug\BE.dll
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\bin\Debug\BE.pdb
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\obj\Debug\DA.csproj.Up2Date
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\obj\Debug\DA.dll
+C:\Users\Y3R51N\source\repos\EVALUACION\DA\obj\Debug\DA.pdb
